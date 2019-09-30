@@ -16,7 +16,7 @@ A number of quality of life changes have been done to make the library easier to
 
 Example:
 
-```
+```cpp
 #include <fastdelegate/FastDelegate.h>
 
 // A class which is capable of notifying a listener using callbacks.
